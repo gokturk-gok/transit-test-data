@@ -1,0 +1,100 @@
+[
+    {
+        "stopCode": 52000101,
+        "stopName": "Avanos Son Durak",
+        "stopDirection": "Son Durak",
+        "latitude": 38.71782,
+        "longitude": 34.83705
+    },
+    {
+        "stopCode": 52000201,
+        "stopName": "Zelve Caddesi",
+        "stopDirection": "Nevşehir",
+        "latitude": 38.71307,
+        "longitude": 34.84362
+    },
+    {
+        "stopCode": 52000202,
+        "stopName": "Zelve Caddesi",
+        "stopDirection": "Avanos",
+        "latitude": 38.71308,
+        "longitude": 34.8432
+    },
+    {
+        "stopCode": 52000301,
+        "stopName": "Avanos Otogarı",
+        "stopDirection": "Nevşehir",
+        "latitude": 38.71201,
+        "longitude": 34.8424
+    },
+    {
+        "stopCode": 52000302,
+        "stopName": "Avanos Otogarı",
+        "stopDirection": "Avanos",
+        "latitude": 38.71206,
+        "longitude": 34.8425
+    },
+    {
+        "stopCode": 50000101,
+        "stopName": "Yurtlar Bölgesi",
+        "stopDirection": "Sanayi",
+        "latitude": 38.67141,
+        "longitude": 34.74183
+    },
+    {
+        "stopCode": 50000102,
+        "stopName": "Yurtlar Bölgesi",
+        "stopDirection": "Avanos",
+        "latitude": 38.67123,
+        "longitude": 34.74188
+    },
+    {
+        "stopCode": 50000201,
+        "stopName": "Hastane Kavşağı",
+        "stopDirection": "Sanayi",
+        "latitude": 38.6578,
+        "longitude": 34.73316
+    },
+    {
+        "stopCode": 50000202,
+        "stopName": "Hastane Kavşağı",
+        "stopDirection": "Üniversite",
+        "latitude": 38.65704,
+        "longitude": 34.73331
+    },
+    {
+        "stopCode": 50000301,
+        "stopName": "Ürgüp Kavşağı",
+        "stopDirection": "Sanayi",
+        "latitude": 38.62924,
+        "longitude": 34.7263
+    },
+    {
+        "stopCode": 50000302,
+        "stopName": "Ürgüp Kavşağı",
+        "stopDirection": "Üniversite",
+        "latitude": 38.62973,
+        "longitude": 34.72793
+    },
+    {
+        "stopCode": 50000303,
+        "stopName": "Ürgüp Kavşağı",
+        "stopDirection": "Ürgüp",
+        "latitude": 38.62921,
+        "longitude": 34.72702
+    },
+    {
+        "stopCode": 50000401,
+        "stopName": "Meteris",
+        "stopDirection": "Forum",
+        "latitude": 38.628,
+        "longitude": 34.71473
+    },
+    {
+        "stopCode": 50000402,
+        "stopName": "Meteris",
+        "stopDirection": "Üniversite",
+        "latitude": 38.62787,
+        "longitude": 34.71461
+    }
+]

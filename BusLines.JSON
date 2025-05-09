@@ -1,0 +1,58 @@
+[
+    {
+        "lineId": 50520101,
+        "lineName": "Nevşehir - Hastane - Avanos",
+        "lineDirection": "01",
+        "stops": [50000402, 50000303, 50000202, 50000102, 52000302, 52000202, 52000101],
+        "lineType": "intercity",
+        "lineOperator": "Avanos Otobüs İşletmesi A.Ş.",
+        "lineOperationType": "private",
+        "lineLocalNumber": "none",
+        "schedules": {
+            "weekday": ["07:00", "08:00", "09:00", "12:00", "15:30", "18:00"],
+            "weekend": ["08:00", "10:00", "12:00", "18:00", "19:00"]
+        }
+    },
+    {
+        "lineId": 50520102,
+        "lineName": "Avanos - Hastane - Nevşehir",
+        "lineDirection": "02",
+        "stops": [52000101, 52000201, 52000301, 50000101, 50000201, 50000301, 50000401],
+        "lineType": "intercity",
+        "lineOperator": "Avanos Otobüs İşletmesi A.Ş.",
+        "lineOperationType": "private",
+        "lineLocalNumber": "none",
+        "schedules": {
+            "weekday": ["07:00", "08:00", "09:00", "12:00", "15:30", "18:00"],
+            "weekend": ["08:00", "10:00", "12:00", "18:00", "19:00"]
+        }
+    },
+    {
+        "lineId": 50509101,
+        "lineName": "Meteris - Üniversite",
+        "lineDirection": "01",
+        "stops": [50000402, 50000303, 50000202, 50000102],
+        "lineType": "intercity",
+        "lineOperator": "Avanos Otobüs İşletmesi A.Ş.",
+        "lineOperationType": "private",
+        "lineLocalNumber": "91",
+        "schedules": {
+            "weekday": ["07:00", "08:00", "09:00", "12:00", "15:30", "18:00"],
+            "weekend": ["08:00", "10:00", "12:00", "18:00", "19:00"]
+        }
+    },
+    {
+        "lineId": 50509102,
+        "lineName": "Üniversite - Meteris",
+        "lineDirection": "02",
+        "stops": [50000102, 50000202, 50000303, 50000402],
+        "lineType": "intercity",
+        "lineOperator": "Avanos Otobüs İşletmesi A.Ş.",
+        "lineOperationType": "private",
+        "lineLocalNumber": "91",
+        "schedules": {
+            "weekday": ["07:00", "08:00", "09:00", "12:00", "15:30", "18:00"],
+            "weekend": ["08:00", "10:00", "12:00", "18:00", "19:00"]
+        }
+    }
+]
