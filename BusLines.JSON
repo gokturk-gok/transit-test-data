@@ -4,7 +4,7 @@
             {
                 "id": 50520101,
                 "lineName": "Nevşehir - Hastane - Avanos",
-                "lineDirection": "01",
+                "lineDirection": "Avanos Son Durak",
                 "stops": [50000402, 50000303, 50000202, 50000102, 52000302, 52000202, 52000101],
                 "lineType": "intercity",
                 "lineOperator": "Avanos Otobüs İşletmesi A.Ş.",
@@ -18,7 +18,7 @@
             {
                 "id": 50520102,
                 "lineName": "Avanos - Hastane - Nevşehir",
-                "lineDirection": "02",
+                "lineDirection": "Forum Kapadokya",
                 "stops": [52000101, 52000201, 52000301, 50000101, 50000201, 50000301, 50000401],
                 "lineType": "intercity",
                 "lineOperator": "Avanos Otobüs İşletmesi A.Ş.",
@@ -32,7 +32,7 @@
             {
                 "id": 50509101,
                 "lineName": "Meteris - Üniversite",
-                "lineDirection": "01",
+                "lineDirection": "Hacı Bektaş Veli Üniversitesi",
                 "stops": [50000402, 50000303, 50000202, 50000102],
                 "lineType": "intercity",
                 "lineOperator": "Avanos Otobüs İşletmesi A.Ş.",
@@ -46,7 +46,7 @@
             {
                 "id": 50509102,
                 "lineName": "Üniversite - Meteris",
-                "lineDirection": "02",
+                "lineDirection": "Meteris",
                 "stops": [50000102, 50000202, 50000303, 50000402],
                 "lineType": "intercity",
                 "lineOperator": "Avanos Otobüs İşletmesi A.Ş.",
